@@ -1,0 +1,166 @@
+.cyancolor
+{
+	color : darkcyan;
+}
+.bg-image
+{
+	background-image: url("Cover CV.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 90vh;
+}
+.container-fluid{
+   padding: 0;
+}
+h1
+{
+	font-size: 60px;
+	color: white;
+	text-align: right;
+	padding-top: 70px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+}
+h5
+{
+	font-size: 25px;
+	color: darkturquoise;
+	text-align: right;
+	padding-right: 50px;
+}
+.navbar-nav
+{
+	padding-right: 80px;
+}
+.navbar-dark .navbar-brand
+{
+	color: darkturquoise;
+	padding-left: 80px;
+}
+#about
+{
+	font-size: 35px;
+	font-weight: bold;
+	color: darkturquoise;
+	text-align: left;
+	padding-left: 155px;
+
+}
+.aboutme
+{
+	font-size: 18px;
+	color: white;
+	padding: 8px 40px 45px 40px;
+}
+.curriculum
+{
+	font-size: 24px;
+	padding-left: 122px;
+	color: white;
+	font-weight: bold;
+	text-align: left;
+}
+.curriculum2
+{
+	font-size: 24px;
+	padding-left: 32px;
+	color: white;
+	font-weight: bold;
+	text-align: left;
+}
+.education
+{
+	padding-top: 5px;
+	padding-left: 90px;
+	padding-bottom: 45px;
+	font-size: 18px;
+	color: white;
+	text-align: left;
+}
+.competition
+{
+	padding-top: 5px;
+	font-size: 18px;
+	color: white;
+	text-align: left;
+}
+#skills
+{
+	padding-bottom: 45px;
+	font-size: 35px;
+	font-weight: bold;
+	color: darkturquoise;
+	text-align: center;
+}
+.skillslist
+{
+	padding-left: 155px;
+	padding-bottom: 15px;
+	font-size: 24px;
+	font-weight: bold;
+	color: black;
+	text-align: left;
+}
+.skillsdesc
+{
+	padding-left: 20px;
+	padding-bottom: 5px;
+	padding-right: 40px;
+	font-size: 18px;
+	color: black;
+	text-align: left;
+}
+#design
+{
+
+	padding-bottom: 50px;
+}
+#portfolio
+{
+	padding-top: 260px;
+	padding-bottom: 260px;
+	font-size: 35px;
+	font-weight: bold;
+	color: darkturquoise;
+	text-align: center;
+}
+#portfoliocontent
+{
+	padding-left: 0px; 
+	padding-right: 200px;
+}
+#contact
+{
+	padding-bottom: 45px;
+	font-size: 35px;
+	font-weight: bold;
+	color: darkturquoise;
+	text-align: center;
+}
+.mycontact
+{
+	padding-bottom: 200px;
+}
+.mycontact a
+{
+	font-size: 18px;
+	color: black;
+	padding-left: 150px;
+	text-decoration: none;
+}
+.mycontact2 a
+{
+	font-size: 18px;
+	color: black;
+	padding-left: 5px;
+	padding-bottom: 15px;
+	text-decoration: none;
+}
+.mycontact a:hover
+{
+	color: gray;
+}
+.mycontact2 a:hover
+{
+	color: gray;
+}
