@@ -17,8 +17,8 @@ h1
 	font-size: 60px;
 	color: white;
 	text-align: right;
-	padding-top: 70px;
-	padding-right: 50px;
+	padding-top: 130px;
+	padding-right: 155px;
 	padding-bottom: 20px;
 }
 h5
@@ -26,16 +26,15 @@ h5
 	font-size: 25px;
 	color: darkturquoise;
 	text-align: right;
-	padding-right: 50px;
+	padding-right: 155px;
 }
-.navbar-nav
-{
-	padding-right: 80px;
+.navbar{
+	padding-left: 155px;
+	padding-right: 155px;
 }
 .navbar-dark .navbar-brand
 {
 	color: darkturquoise;
-	padding-left: 80px;
 }
 #about
 {
@@ -44,13 +43,13 @@ h5
 	color: darkturquoise;
 	text-align: left;
 	padding-left: 155px;
-
 }
 .aboutme
 {
 	font-size: 18px;
 	color: white;
-	padding: 8px 40px 45px 40px;
+	text-align: left;
+	padding: 8px 155px 45px 40px;
 }
 .curriculum
 {
@@ -64,6 +63,7 @@ h5
 {
 	font-size: 24px;
 	padding-left: 32px;
+	padding-right: 155px;
 	color: white;
 	font-weight: bold;
 	text-align: left;
@@ -80,6 +80,7 @@ h5
 .competition
 {
 	padding-top: 5px;
+	padding-right: 155px;
 	font-size: 18px;
 	color: white;
 	text-align: left;
@@ -105,7 +106,7 @@ h5
 {
 	padding-left: 20px;
 	padding-bottom: 5px;
-	padding-right: 40px;
+	padding-right: 70px;
 	font-size: 18px;
 	color: black;
 	text-align: left;
@@ -117,17 +118,16 @@ h5
 }
 #portfolio
 {
-	padding-top: 260px;
-	padding-bottom: 260px;
+	padding : 280px 0;
+	text-align: center;
 	font-size: 35px;
 	font-weight: bold;
 	color: darkturquoise;
-	text-align: center;
 }
 #portfoliocontent
 {
 	padding-left: 0px; 
-	padding-right: 200px;
+	padding-right: 170px;
 }
 #contact
 {
