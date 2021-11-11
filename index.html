@@ -227,6 +227,14 @@
 		<!--Contact Container-->
 		<div class="container-fluid bg-light pt-5">
 			<div id="contact">CONTACT</div>
+				<!--Contact Form-->
+				<div class="center">
+					<form id="contactform" action="data.html" onSubmit="return pengecekan()">
+					    <input type="text" placeholder="Nama Lengkap" name="nama" id="nama">
+					    <input type="email" placeholder="Email" name="email" id="email">
+					    <textarea name="msg" id="msg" placeholder="Pesan atau Kesan" cols="25" rows="4"></textarea>
+					    <button type="submit" class="submit" onclick="SubmitForm()">Submit</button>
+					</form>
 				<div class="row">
 					<div class="col-sm">
 						<div class="mycontact">
@@ -241,6 +249,10 @@
 						</div>
 					</div>
 				</div>
-		</div>	
+			</div>
+		</div>
+
+		<!--Script untuk form-->
+		<script src="script.js"></script>	
 	</body>
 </html>
